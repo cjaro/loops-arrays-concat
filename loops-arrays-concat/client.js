@@ -100,4 +100,4 @@ for(var i=0; i < raceArray.length; i++) {
 //
 //
 //
-// fuck fuck fuck fuck
+// comment
